@@ -1,0 +1,33 @@
+[
+
+  {
+
+    "userid":  0,
+    "firstname": "Eddieson",
+    "middlename": "Cabling",
+    "lastname": "Vergara",
+    "email": "vergaraeddieson@gmail.com",
+    "password": "pircus123!"
+  },
+
+
+  {
+    "userid": 1,
+    "firstname": "Carlo",
+    "middlename": "John",
+    "lastname": "Monfero",
+    "email": "johncarlomonfero@cfic.ph",
+    "password": "mscapex20!5"
+  },
+
+
+  {
+    "userid": 2,
+    "firstname": "Jeffrey",
+    "middlename": "Tavera",
+    "lastname": "Tavera",
+    "email": "jeffreytavera@cfic.ph",
+    "password": "mscapex20!5!23"
+  }
+
+]
